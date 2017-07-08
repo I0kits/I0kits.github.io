@@ -6,4 +6,4 @@
 
 
 ### Tools
-* [Hexo](https://hexo.io/)
+* [Hexo](https://hexo.io/zh-cn/docs/)
