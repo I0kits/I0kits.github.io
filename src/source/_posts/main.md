@@ -15,7 +15,7 @@ layout: main
 
 
 ### 基础设施(Infrastructure)
-万丈高楼平地起，牢固的基础是项目成功的第一步，况且CI/CD已然是现代项目的标准配置了，若有容器化的需求也有多个选择，关于存储目前仅一共了DB级别的demo，DFS层面的内容期待大家贡献。
+万丈高楼平地起，牢固的基础是项目成功的第一步，况且CI/CD已然是现代项目的标准配置了，若有容器化的需求也有多个选择，关于存储目前仅提供了DB级别的demo，DFS层面的内容期待大家贡献：
 * [jenkins](http://www.baidu.com)
 * [concourse](https://concourse.ci/)
 * [mysql](https://github.com/I0kits/mysqld)
@@ -27,7 +27,8 @@ layout: main
 * [rabbitmq-base](https://gitlab.com/dev-kits/rabbitmq-base)
 
 ### 通用服务(Common Service)
-总有那么一些服务，在大多数场景下都需要，事实看以下内容有没有一款适合你？
+总有那么一些服务，在大多数场景下都需要，试试看以下内容有没有一款适合你？
 * [files](https://github.com/I0kits/files)
 * [auth-service](https://github.com/I0kits/auth-service)
 * [....](https://github.com/I0kits/...)
+正在补充中...
